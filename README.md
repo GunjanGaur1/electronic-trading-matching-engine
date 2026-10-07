@@ -5,4 +5,4 @@ order matching, concurrency, synchronization, networking,
 performance, and systems design.
 
 Tech:
-Go • C++ • React • TCP/IP • Concurrency
+Go , C++ , React , TCP/IP , Concurrency
